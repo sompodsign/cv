@@ -1,0 +1,149 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  /* font-size: 130%;*/
+   padding: 0;
+   color: #40514E;
+}
+h1 {
+    color: #66BFBF;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem;
+   /* line-height: 2;*/
+    margin: 50px auto 0 auto;
+
+    
+}
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+    background-color: #d3f6f3;
+    /* height: 200px;
+    width: 200px;
+    border: 10px solid;
+    padding: 20px;*/
+    position: relative;
+    padding: 100px;
+    padding-bottom: 0;
+
+}
+.middle-container {
+    
+}
+.bottom-container {
+    
+}
+.top-cloud {
+    position: absolute;
+    right: 240px;
+    top: 50px;
+    
+}
+.bottom-cloud {
+    position: absolute;
+    left: 240px;
+    top: 280px;
+
+    
+}
+.main-image {
+    height: 500px;
+    width: 1050px;
+    
+}
+.size-cloud {
+    width: 12%;
+    height: 8%;
+}
+.profile-image {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    width: 10%;
+    border-radius: 50%;
+    
+}
+.intro {
+    width: 25%;
+    margin:  auto;
+}
+.profile p {
+    
+    color: #40514E;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    height: 50%;
+    text-align: left;
+    
+}
+
+p {
+    line-height: 2;
+}
+.code-img {
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+.cycle-img {
+    width: 16%;
+    float: right;
+    margin-left: 20px;
+}
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.contact-me{
+    padding: 130px;
+    padding-top: 0;
+    padding-bottom: 200px;
+
+}
+.btn {
+    background-color: #11999E;
+    color: white;
+    padding: 15px;
+    border-radius: 8%;
+    margin: 100px;
+    font-family: tahoma;
+    style: none;
+    position: relative;
+    top: 70px;
+    
+}
+.btn:hover {
+    style: none;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    bottom: 0;
+    padding: 65px;
+
+}
+.bottom-container a {
+    color: #11999E;
+    margin: px;
+    font-family: sans-serif;
+    font-size: 110%;
+    font-weight: normal;
+
+}
+.bottom-container p {
+    color: white;
+    font-size: 80%;
+}
